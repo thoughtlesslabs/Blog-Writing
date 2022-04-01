@@ -1,6 +1,7 @@
 # Brainstorming Blog List
 
-### Warm Takes Blog Ideas
+## Warm Takes Blog Ideas
+
 * Full length socks and shorts are fine
 * People have different opinions: A poll
 * Couches are underappreciated.
@@ -13,7 +14,6 @@
 * Twitter is a great personal journal
 * Twitter friends are better friends
 * Pedicures are fantastic - Manicures suck
-* I want to hear all your obvious jokes
+* ~~I want to hear all your obvious jokes~~
 * Flexible jeans are the best pant out there
 * Writing to share is more fun
-* 
