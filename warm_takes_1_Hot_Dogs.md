@@ -1,7 +1,8 @@
 # Warm Takes
-##### By: John Dietrich
 
 ## Episode 1: Hot Dogs
+
+### By: John Dietrich
 
 I love hot dogs. I love them barbecued, I love them boiled and thrown in with some macaroni and cheese, and I truly love them microwaved. There are over 20 billion hot dogs consumed in America every single year and yet, the lowly hot dog gets relegated even lower than a McDonald's cheeseburger in the minds of foodies.
 
