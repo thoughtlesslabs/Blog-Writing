@@ -4,7 +4,7 @@
 
 * Full length socks and shorts are fine
 * People have different opinions: A poll
-* Couches are underappreciated.
+* ~Couches are underappreciated.~
 * Markdown makes writing fun
 * Coding is a fun skill
 * Video games are for everyone
