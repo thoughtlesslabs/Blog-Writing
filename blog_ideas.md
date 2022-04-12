@@ -13,8 +13,9 @@
 * Crypto is a scam
 * Twitter is a great personal journal
 * Twitter friends are better friends
-* ~~Pedicures are fantastic - Manicures suck~~
-* ~~I want to hear all your obvious jokes~~
-* Flexible jeans are the best pant out there
+* ~Pedicures are fantastic - Manicures suck~
+* ~I want to hear all your obvious jokes~
+* ~Flexible jeans are the best pant out there~
 * Writing to share is more fun
 * ~Build anything~
+* ~Mechanical Keyboards~
